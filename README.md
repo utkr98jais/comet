@@ -1,4 +1,4 @@
-# Comet
+# Comet : A wonderull project
 
 ## DEPRECATED 
 
